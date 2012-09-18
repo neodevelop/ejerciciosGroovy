@@ -5,3 +5,11 @@ if(s){
 }else{
 	println "Es null"
 }
+
+def lista = []
+
+if(lista){
+	println "No Vacia"
+}else{
+	println "Vacia"
+}
